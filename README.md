@@ -25,7 +25,7 @@ DEADLINE: 1-2 days.
 
 Technical task itself consists of two main parts and one optional: 
 1. Collect data.\
-   You need to fetch cryptocurrency data prices from CEX.IO. Hint: use endpoint that returns last price of selected pair. For this task you should pull last prices for the following pairs: BTC/USD, ETH/USD and XRP/USD. This data should be stored in database, since you will use this data in this data should be stored in database, since you will use this data in the next two parts of the task. Feel free to store any additional information to database like 'createdAt' date etc.
+   You need to fetch cryptocurrency data prices from CEX.IO. For this task you should pull last prices for the following pairs: BTC/USD, ETH/USD and XRP/USD. This data should be stored in database, since you will use this data in the next two parts of the task. Feel free to store any additional information to database like 'createdAt' date etc.
 2. Rest Endpoints.\
    You need to create a rest controller with the following endpoints 
      -  GET ```/cryptocurrencies/minprice?name=[currency_name]``` - should return record with the lowest price of selected cryptocurrency.
