@@ -42,6 +42,7 @@ Technical task itself consists of two main parts and one optional:
  1. All parts of the task were implemented correctly
  2. Quality and style of the code
  3. All possible exception situations are handled properly
+ 4. The project should be covered with tests.
 
 ## 🏁 Finishing the task
 After everything is done, please commit and send a link to your GitHub repository to HR.
