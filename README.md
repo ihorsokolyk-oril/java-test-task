@@ -5,8 +5,6 @@ We've prepared a simple test task for you where you can show all your knowledge 
 
 Respectfully, ORIL team.
 
-P.S. If you have any questions 🤔 or just want to chat 💬, please email me at vyacheslav.perfilyev@oril.co.
-
 P.S.S. I bet that you could do it with your eyes shut and there is literally nothing that could stop you.
 ## 📃 Task
 Your goal for the task is to show us as much as you know about Java (Spring) and Back-End development. The app should be not overcomplicated and you have to remember it's not 🚀 rocket science, so do not overload everything.
@@ -49,4 +47,4 @@ After everything is done, please commit and send a link to your GitHub repositor
 
 ## 📑 Contributing
 
-If you notice any mistake or have an idea of improving the test task, please feel free to contact vyacheslav.perfilyev@oril.co for an immediate response 🙌.
+If you notice any mistake or have an idea of improving the test task, please feel free to contact us.
