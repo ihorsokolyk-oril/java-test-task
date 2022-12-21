@@ -5,7 +5,7 @@ We've prepared a simple test task for you where you can show all your knowledge 
 
 Respectfully, ORIL team.
 
-P.S.S. I bet that you could do it with your eyes shut and there is literally nothing that could stop you.
+P.S. I bet that you could do it with your eyes shut and there is literally nothing that could stop you.
 ## 📃 Task
 Your goal for the task is to show us as much as you know about Java (Spring) and Back-End development. The app should be not overcomplicated and you have to remember it's not 🚀 rocket science, so do not overload everything.
 
